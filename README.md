@@ -6,7 +6,7 @@
 
 [![Live Dashboard](https://img.shields.io/badge/▶%20Try%20the%20Live%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](YOUR_STREAMLIT_LINK_HERE)
 
-![Dashboard Preview](YOUR_GIF_OR_SCREENSHOT_LINK_HERE)
+![Dashboard Preview](<img width="881" height="407" alt="Image" src="https://github.com/user-attachments/assets/40e24c3a-f128-4e8b-8f3d-8f0f20b2e7d9" />)
 
 ---
 
@@ -39,7 +39,7 @@ Analyzing $37K/day in ad spend across Google Ads, Meta Ads, and TikTok Ads, this
 
 ## 🖥️ Explore the Interactive Dashboard
 
-**[→ Try it live here](YOUR_STREAMLIT_LINK_HERE)** — no signup required.
+**[→ Try it live here](https://marketing-roas-optimization-xu2ep2eqjsswede3z6tdtj.streamlit.app/)** — no signup required.
 
 - **Executive Summary** — the headline numbers at a glance
 - **Statistical Evidence** — the proof behind the recommendation
@@ -52,7 +52,7 @@ Analyzing $37K/day in ad spend across Google Ads, Meta Ads, and TikTok Ads, this
 
 I build data-driven marketing analytics for businesses that are spending real money on ads but don't have a clear read on what's actually working. This project shows the same process I use for client work: test the hypothesis statistically, stress-test it against every possible confound, and tell you honestly what the evidence supports — no overselling.
 
-**Running ads across multiple platforms and want this kind of clarity for your own account?** [Let's talk →](YOUR_FIVERR_GIG_LINK_HERE)
+**Running ads across multiple platforms and want this kind of clarity for your own account?** [Let's talk →](https://www.fiverr.com/users/jade_84/manage_gigs)
 
 ---
 
@@ -84,7 +84,7 @@ I build data-driven marketing analytics for businesses that are spending real mo
 <summary><b>⚙️ Run Locally</b></summary>
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/marketing-roas-optimization.git
+git clone https://github.com/ahnthwu-010/marketing-roas-optimization.git
 cd marketing-roas-optimization
 pip install -r requirements.txt
 streamlit run app.py
