@@ -1,0 +1,65 @@
+{
+  "funnel_metrics": {
+    "Google Ads": {
+      "CTR": 0.0398,
+      "CPC": 2.1624,
+      "CVR": 0.0446,
+      "AOV": 168.0708,
+      "ROAS_actual": 3.4703
+    },
+    "Meta Ads": {
+      "CTR": 0.0248,
+      "CPC": 1.319,
+      "CVR": 0.0459,
+      "AOV": 162.7862,
+      "ROAS_actual": 5.6627
+    },
+    "TikTok Ads": {
+      "CTR": 0.0553,
+      "CPC": 1.0206,
+      "CVR": 0.0471,
+      "AOV": 165.1548,
+      "ROAS_actual": 7.6217
+    }
+  },
+  "decomposition_tiktok_vs_google": {
+    "total_gap_pct": 119.6,
+    "cvr_contribution_pct": 6.8,
+    "aov_contribution_pct": -2.2,
+    "cpc_contribution_pct": 95.4,
+    "raw_values": {
+      "TikTok Ads": {
+        "CTR": 0.0553,
+        "CPC": 1.0206,
+        "CVR": 0.0471,
+        "AOV": 165.1548
+      },
+      "Google Ads": {
+        "CTR": 0.0398,
+        "CPC": 2.1624,
+        "CVR": 0.0446,
+        "AOV": 168.0708
+      }
+    }
+  },
+  "decomposition_meta_vs_google": {
+    "total_gap_pct": 63.2,
+    "cvr_contribution_pct": 5.6,
+    "aov_contribution_pct": -6.5,
+    "cpc_contribution_pct": 101.0,
+    "raw_values": {
+      "Meta Ads": {
+        "CTR": 0.0248,
+        "CPC": 1.319,
+        "CVR": 0.0459,
+        "AOV": 162.7862
+      },
+      "Google Ads": {
+        "CTR": 0.0398,
+        "CPC": 2.1624,
+        "CVR": 0.0446,
+        "AOV": 168.0708
+      }
+    }
+  }
+}

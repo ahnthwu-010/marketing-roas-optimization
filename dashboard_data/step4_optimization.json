@@ -1,0 +1,25 @@
+{
+  "total_budget": 37804.09,
+  "current_revenue": 162141.66,
+  "optimal_revenue": 204304.36,
+  "uplift_daily": 42162.71,
+  "uplift_pct": 26.0,
+  "uplift_annualized": 15389388.01,
+  "allocation": {
+    "Google Ads": {
+      "current_spend": 20681.66,
+      "optimal_spend": 1872.22,
+      "change_pct": -90.9
+    },
+    "TikTok Ads": {
+      "current_spend": 10284.57,
+      "optimal_spend": 28814.42,
+      "change_pct": 180.2
+    },
+    "Meta Ads": {
+      "current_spend": 6837.86,
+      "optimal_spend": 7117.45,
+      "change_pct": 4.1
+    }
+  }
+}

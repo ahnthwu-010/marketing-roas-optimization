@@ -1,0 +1,85 @@
+{
+  "by_industry": {
+    "Google Ads": {
+      "E-commerce": 3.7,
+      "EdTech": 3.58,
+      "Fintech": 3.7,
+      "Healthcare": 3.12,
+      "SaaS": 3.29
+    },
+    "TikTok Ads": {
+      "E-commerce": 8.36,
+      "EdTech": 7.35,
+      "Fintech": 6.38,
+      "Healthcare": 7.68,
+      "SaaS": 8.26
+    },
+    "Meta Ads": {
+      "E-commerce": 4.97,
+      "EdTech": 6.22,
+      "Fintech": 4.83,
+      "Healthcare": 6.51,
+      "SaaS": 5.7
+    }
+  },
+  "by_country": {
+    "Google Ads": {
+      "Australia": 3.49,
+      "Canada": 3.15,
+      "Germany": 3.49,
+      "India": 3.82,
+      "UAE": 3.8,
+      "UK": 3.7,
+      "USA": 2.97
+    },
+    "TikTok Ads": {
+      "Australia": 8.75,
+      "Canada": 8.52,
+      "Germany": 7.1,
+      "India": 7.8,
+      "UAE": 7.06,
+      "UK": 7.61,
+      "USA": 6.53
+    },
+    "Meta Ads": {
+      "Australia": 6.52,
+      "Canada": 5.27,
+      "Germany": 6.56,
+      "India": 5.85,
+      "UAE": 6.03,
+      "UK": 5.12,
+      "USA": 4.88
+    }
+  },
+  "by_half_year": {
+    "Google Ads": {
+      "H1_2024": 3.43,
+      "H2_2024": 3.52
+    },
+    "TikTok Ads": {
+      "H1_2024": 7.5,
+      "H2_2024": 7.73
+    },
+    "Meta Ads": {
+      "H1_2024": 5.8,
+      "H2_2024": 5.52
+    }
+  },
+  "ecommerce_only": {
+    "blended_roas": {
+      "Google Ads": 3.7,
+      "Meta Ads": 4.97,
+      "TikTok Ads": 8.36
+    },
+    "total_spend": {
+      "Google Ads": 1086590.0,
+      "Meta Ads": 409120.81,
+      "TikTok Ads": 428276.27
+    },
+    "total_revenue": {
+      "Google Ads": 4021404.29,
+      "Meta Ads": 2034150.28,
+      "TikTok Ads": 3581725.12
+    }
+  }
+}

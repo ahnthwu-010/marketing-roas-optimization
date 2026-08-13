@@ -1,0 +1,55 @@
+{
+  "kruskal_wallis_platform": {
+    "H": 209.05,
+    "p_value": 4.0214308454283885e-46,
+    "epsilon_sq": 0.1152
+  },
+  "pairwise_platform": [
+    {
+      "pair": "Google Ads vs TikTok Ads",
+      "p_adj": 1.1634633575728428e-42,
+      "significant": true
+    },
+    {
+      "pair": "Google Ads vs Meta Ads",
+      "p_adj": 7.942699176184782e-21,
+      "significant": true
+    },
+    {
+      "pair": "TikTok Ads vs Meta Ads",
+      "p_adj": 8.626636409113729e-08,
+      "significant": true
+    }
+  ],
+  "bootstrap_blended_roas": {
+    "Google Ads": {
+      "point": 3.47,
+      "ci_low": 3.24,
+      "ci_high": 3.7
+    },
+    "TikTok Ads": {
+      "point": 7.62,
+      "ci_low": 6.98,
+      "ci_high": 8.31
+    },
+    "Meta Ads": {
+      "point": 5.66,
+      "ci_low": 5.25,
+      "ci_high": 6.1
+    }
+  },
+  "within_platform_campaign_type": {
+    "Google Ads": {
+      "H": 7.61,
+      "p_value": 0.0548
+    },
+    "TikTok Ads": {
+      "H": 7.1,
+      "p_value": 0.0689
+    },
+    "Meta Ads": {
+      "H": 1.44,
+      "p_value": 0.6957
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "current_spend": {
+    "Google Ads": 20681.66,
+    "TikTok Ads": 10284.57,
+    "Meta Ads": 6837.86
+  },
+  "current_revenue": 162141.66,
+  "scenarios": {
+    "cap_15pct": {
+      "cap_pct": 15,
+      "allocation": {
+        "Google Ads": 18113.3,
+        "TikTok Ads": 11827.26,
+        "Meta Ads": 7863.54
+      },
+      "predicted_revenue": 167552.38,
+      "uplift_pct": 3.34,
+      "uplift_daily": 5410.72,
+      "uplift_annualized": 1974913.69
+    },
+    "cap_25pct": {
+      "cap_pct": 25,
+      "allocation": {
+        "Google Ads": 16401.05,
+        "TikTok Ads": 12855.71,
+        "Meta Ads": 8547.32
+      },
+      "predicted_revenue": 171003.62,
+      "uplift_pct": 5.47,
+      "uplift_daily": 8861.96,
+      "uplift_annualized": 3234615.8
+    },
+    "cap_35pct": {
+      "cap_pct": 35,
+      "allocation": {
+        "Google Ads": 14688.81,
+        "TikTok Ads": 13884.17,
+        "Meta Ads": 9231.11
+      },
+      "predicted_revenue": 174336.85,
+      "uplift_pct": 7.52,
+      "uplift_daily": 12195.19,
+      "uplift_annualized": 4451243.8
+    },
+    "cap_50pct": {
+      "cap_pct": 50,
+      "allocation": {
+        "Google Ads": 12120.44,
+        "TikTok Ads": 15426.86,
+        "Meta Ads": 10256.79
+      },
+      "predicted_revenue": 179122.18,
+      "uplift_pct": 10.47,
+      "uplift_daily": 16980.52,
+      "uplift_annualized": 6197890.08
+    },
+    "cap_100pct": {
+      "cap_pct": 100,
+      "allocation": {
+        "Google Ads": 3559.23,
+        "TikTok Ads": 20569.14,
+        "Meta Ads": 13675.72
+      },
+      "predicted_revenue": 193098.37,
+      "uplift_pct": 19.09,
+      "uplift_daily": 30956.71,
+      "uplift_annualized": 11299199.28
+    }
+  },
+  "recommended_scenario": "cap_25pct",
+  "theoretical_max_uplift_pct": 26.0
+}
