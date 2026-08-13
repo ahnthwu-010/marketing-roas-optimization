@@ -4,7 +4,7 @@
 
 > Built for: e-commerce brands, DTC marketers, and agencies running paid ads across 2+ platforms who aren't sure where their budget should go.
 
-[![Live Dashboard](https://img.shields.io/badge/▶%20Try%20the%20Live%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)]([YOUR_STREAMLIT_LINK_HERE](https://marketing-roas-optimization-xu2ep2eqjsswede3z6tdtj.streamlit.app/))
+[![Live Dashboard](https://marketing-roas-optimization-xu2ep2eqjsswede3z6tdtj.streamlit.app/)]
 
 ![Dashboard Preview](<img width="881" height="407" alt="Image" src="https://github.com/user-attachments/assets/40e24c3a-f128-4e8b-8f3d-8f0f20b2e7d9" />)
 
